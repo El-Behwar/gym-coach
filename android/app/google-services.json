@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "312801662009",
+    "project_id": "gym-coach-sheko2",
+    "storage_bucket": "gym-coach-sheko2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:312801662009:android:1b2593a357e382ba7a29e8",
+        "android_client_info": {
+          "package_name": "com.example.gym_coach"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLs1oEDG7IC-IahH4VYxJpyxQDFVU8j0U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
